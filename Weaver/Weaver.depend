@@ -1,0 +1,28 @@
+# depslib dependency file v1.0
+1489297232 source:c:\users\george\desktop\projects\weaver\main.cpp
+	"Game.h"
+	<iostream>
+
+1489297519 c:\users\george\desktop\projects\weaver\include\game.h
+	"Tile.h"
+	"Player.h"
+
+1489296784 c:\users\george\desktop\projects\weaver\include\tile.h
+	<string>
+	"Unit.h"
+
+1489297993 c:\users\george\desktop\projects\weaver\include\unit.h
+	<string>
+
+1489297193 c:\users\george\desktop\projects\weaver\include\player.h
+	"Unit.h"
+
+1489297742 source:c:\users\george\desktop\projects\weaver\src\game.cpp
+	"Game.h"
+
+1489297776 source:c:\users\george\desktop\projects\weaver\src\player.cpp
+	"Player.h"
+
+1489296362 source:c:\users\george\desktop\projects\weaver\src\tile.cpp
+	"Tile.h"
+
